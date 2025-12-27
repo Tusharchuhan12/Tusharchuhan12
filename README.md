@@ -120,14 +120,6 @@ A digital document and user services platform.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TusharChauhan12&theme=darkhub&no-frame=true)
-
----
-
-## 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=TusharChauhan12&icon=0&color=1)
-
 ---
 
 ### ⭐ If you like my work, don’t forget to star my repositories!
