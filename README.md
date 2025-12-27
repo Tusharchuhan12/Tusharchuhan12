@@ -99,19 +99,6 @@ A digital document and user services platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharChauhan12&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TusharChauhan12&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharChauhan12&layout=compact&theme=dark"/>
-</p>
 
 ---
 
